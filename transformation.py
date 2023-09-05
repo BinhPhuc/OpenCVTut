@@ -43,3 +43,5 @@ cv2.imshow('Cropped', cropped)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# https://docs.opencv.org/4.x/da/d6e/tutorial_py_geometric_transformations.html
